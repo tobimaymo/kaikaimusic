@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GohanShop2/static/css/main.f78c8b4b.css",
+    "main.js": "/GohanShop2/static/js/main.d0ddda26.js",
+    "index.html": "/GohanShop2/index.html",
+    "main.f78c8b4b.css.map": "/GohanShop2/static/css/main.f78c8b4b.css.map",
+    "main.d0ddda26.js.map": "/GohanShop2/static/js/main.d0ddda26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f78c8b4b.css",
+    "static/js/main.d0ddda26.js"
+  ]
+}
